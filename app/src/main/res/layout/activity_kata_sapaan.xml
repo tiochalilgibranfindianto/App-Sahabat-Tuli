@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KataSapaan">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="25dp"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Assalamualaikum wr wb"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/ass"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Wassalamualaikum wr wb"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/wss"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Selamat Pagi"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/pagi"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Selamat Siang"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/siang"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Selamat Sore"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/sore"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Selamat Malam"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/malam"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Terima kasih"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/terimakasih"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</ScrollView>

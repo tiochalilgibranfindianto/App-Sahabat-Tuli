@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BuahBuahan">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="25dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Apel"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/apel"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Jeruk"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/jeruk"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Anggur"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/anggur"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Durian"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/durian"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Kelapa muda"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/kelapamuda"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Nanas"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/nanas"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Pisang"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/pisang"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Rambutan"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/rambutan"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="375dp"
+            android:layout_height="375dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/violet"
+                android:text="Semangka"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:src="@drawable/semangka"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</ScrollView>
