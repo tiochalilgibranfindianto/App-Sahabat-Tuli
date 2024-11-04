@@ -6,6 +6,9 @@ Sahabat Tuli is an application to help the Deaf community communicate, learn, an
 
 ## Key Features
 - Sign Language Translation: Helps translate text or voice into sign language for easy communication.
-- Community and Discussion Forum: Users can share experiences and information about the Deaf world.
-- Sign Language Guide: Provides sign language resources for hearing users who want to learn.
-- Visual Notifications: Provides important notifications through visual signals to make it more accessible for Deaf users.
+- Educational Support: Provides resources for professors to learn sign language, making it easier to communicate with Deaf students and peers.
+- Lifelong Learning: Encourages Deaf and hearing users to continuously learn from each other, fostering limitless opportunities for growth and understanding.
+- Cross-Platform Availability: Available for download on both Android and iPhone, allowing easy access for all users.
+
+## Purpose
+The purpose of this app is to connect the Deaf and hearing communities, and increase understanding and support for the communication needs of Deaf friends.
