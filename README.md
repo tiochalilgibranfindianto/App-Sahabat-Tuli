@@ -14,4 +14,4 @@ Sahabat Tuli is an application to help the Deaf community communicate, learn, an
 The purpose of this app is to connect the Deaf and hearing communities, and increase understanding and support for the communication needs of Deaf friends.
 
 ## Instalasi
-Dillinger requires [Android Stud](https://developer.android.com/studio?hl=id) API to run.
+Dillinger requires [Android Studio](https://developer.android.com/studio?hl=id) API to run.
