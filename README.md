@@ -19,6 +19,6 @@ Dillinger requires [Android Studio](https://developer.android.com/studio?hl=id) 
 Once you're done, you can test the app using an emulator or a physical Android device to see if all the features are working properly!
 
 ## Conclusion
-Sahabat Tuli is an app that helps the Deaf community communicate and learn more easily. With sign language translation features and educational support, the app supports interaction between Deaf users and hearing friends, and encourages shared learning.
+Sahabat Tuli application is designed to support the Deaf community in communicating and learning. The features make it easy for users to connect and understand each other.
 
 **Happy learning!**
