@@ -21,4 +21,4 @@ Once you're done, you can test the app using an emulator or a physical Android d
 ## Conclusion
 Sahabat Tuli is an app that helps the Deaf community communicate and learn more easily. With sign language translation features and educational support, the app supports interaction between Deaf users and hearing friends, and encourages shared learning.
 
-** Happy learning! **
+**Happy learning!**
